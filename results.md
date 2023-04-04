@@ -5,3 +5,6 @@ Traceback (most recent call last):
 TypeError: '>' not supported between instances of 'str' and 'int'
 
 The output of test2.py is ->
+Emil Refsnes
+Tobias Refsnes
+Linus Refsnes
